@@ -12,4 +12,4 @@ Cette application permet de convertir des fichiers du format XML vers JSON et in
 
 ## Vidéo d'explication (5 minutes)
 La vidéo de démonstration sera disponible via le lien ci-dessous :
-👉 [**Lien vers la vidéo (Google Drive)**](LIEN_A_VENIR_ICI)
+👉 [**Lien vers la vidéo (Google Drive)**](https://drive.google.com/file/d/1Kd2JzIeM1EQFE_yzRYbCnTVx_yleOmTl/view?usp=sharing)
